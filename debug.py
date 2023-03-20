@@ -6,6 +6,7 @@ from lib.recipeingredient import *
 from lib.user import *
 
 # code here
+print("Word up homie")
 
 # e.g.  
     # a1 = Allergy( ??? )
@@ -20,4 +21,4 @@ from lib.user import *
 
 
 # do not remove 
-import ipdb; ipdb.set_trace()
+# import ipdb; ipdb.set_trace()

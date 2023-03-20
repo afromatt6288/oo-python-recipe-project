@@ -15,7 +15,7 @@ We've provided you with a console that you can use to test your code. To enter a
 ### `Recipe`
 Build the following functionality on the Recipe class
 
-- `Recipe.all`
+X - `Recipe.all`
 should return all of the recipe instances
 - `Recipe.most_popular`
 should return the recipe instance with the highest number of users (the recipe that has the most recipe cards)
@@ -31,7 +31,7 @@ should take an list of ingredient instances as an argument, and associate each o
 ### `Allergy`
 An Allergy is a join between a user and an ingredient.  This is a has-many-through relationship.  What functionality should an instance of this model respond to?
 
-- `Allergy.all`
+X - `Allergy.all`
 should return all of the Allergy instances
 
 ### `User`
